@@ -96,4 +96,5 @@ There are no exams. The portfolio is the evidence. The question isn't "did you g
 - Can you articulate **what you asked** and **why**?
 - Can you explain **what Claude got right** and **where it needed pushing**?
 - Do your journal entries show genuine **intellectual growth** over four months?
+- Do you understand that **AI capabilities vary** — by tool, by version, by configuration — and can you describe how you adapted your approach accordingly?
 - Would your portfolio make a law school admissions tutor think "this person knows how to think"?

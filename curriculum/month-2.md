@@ -91,25 +91,33 @@ By the end of Month 2 you will:
 
 ---
 
-## Week 8 — When Claude Gets It Wrong
+## Week 8 — When Claude Gets It Wrong (And How to Know)
 
-**Opening question:** *How would you know if Claude was making something up?*
+**Opening question:** *How would you know if Claude was making something up — and does it matter whether it can search the internet or not?*
 
 ### Legal content
 - Revisit any topic from Weeks 1–7 where you had doubts
-- AI hallucination: why language models sometimes state false things confidently
-- Legal accuracy and why it matters: getting a case citation wrong isn't just an embarrassment
+- AI hallucination: why language models sometimes state false things confidently, even with access to live information
+- Legal accuracy and why it matters: getting a case citation wrong isn't just an embarrassment — in legal work, it can mean building an argument on nothing
 
-### AI skill: Critical evaluation
-- How to spot hedging language ("it is generally understood that...", "courts have suggested...")
-- How to cross-check: use Claude to find a source, then ask Claude to verify it exists
-- The discipline of asking: "Are you certain about this? What's your confidence level?"
-- When to trust Claude as a starting point vs when to demand verification
+### AI skill: Critical evaluation — including knowing what your AI can actually do
+
+AI capabilities are not fixed. Different tools, and different versions of the same tool, have different abilities: some can search the web in real time, others work entirely from training data with a knowledge cutoff, and some can do both depending on how they're set up. The first step in critical evaluation is knowing which situation you're in.
+
+Even when an AI *can* browse the web, it can still hallucinate, misrepresent what it found, or confidently cite a source that says something different from what it claims. Web access is not a cure for unreliability — it just changes the nature of the risk.
+
+- **Find out what Claude can do in your current setup.** Ask directly: "Do you have access to the internet in this context? What is your knowledge cutoff date?" Then test whether the answer is accurate.
+- **Spot hedging language.** Phrases like "it is generally understood that..." or "courts have suggested..." are signals to probe further — not accept as fact.
+- **Verify legal citations through authoritative sources.** For UK law, BAILII (bailii.org) is free and authoritative. Don't rely on Claude alone to confirm that a case exists, says what Claude claims, or uses the citation Claude gives — ask Claude to explain its reasoning, then check independently.
+- **If Claude has web search:** ask it to link to its source, then verify the link actually says what Claude claims.
+- **If Claude doesn't have web search:** use BAILII or a legal database to verify citations independently before relying on them.
+- The discipline of asking: "Are you certain about this? What would change your answer?"
 
 ### Session activities
 1. Deliberately ask Claude a question where you already know the answer (from Weeks 1–7) and check whether it's right
 2. Ask Claude a question about a real case but with deliberately wrong facts — see if it corrects you or goes along with you
-3. Ask Claude: "What are the limits of your legal knowledge? When should a student not trust what you say?"
+3. Ask Claude: "What tools do you have access to in this context? Can you browse the web? What is your knowledge cutoff?" Then try to verify whether Claude's answer about its own capabilities is accurate — this is harder than it sounds.
+4. Look up one case from the course on BAILII and compare what you find with what Claude told you about it
 
 ### Journal prompt
-> "Describe a moment in your sessions so far where you weren't sure whether Claude was right. How did you handle it? What would you do differently now?"
+> "What did you discover about what Claude can and can't do in your setup? Did anything surprise you — either a capability you didn't expect, or a limitation you assumed wasn't there? How does this change how you'll use it going forward?"

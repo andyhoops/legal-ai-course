@@ -28,6 +28,8 @@ Think of it less like Google and more like a very well-read study partner who's 
 
 **Important:** Claude can be wrong. It can be confidently wrong. Part of what you're learning is how to tell the difference between Claude being helpful and Claude making things up. This is one of the most valuable skills you'll develop.
 
+**Also important:** Claude's capabilities are not fixed. Depending on how it's set up, it may or may not be able to search the web, access recent information, or use external tools. One of the AI skills you'll build is knowing how to find out what your AI can actually do — and not assuming it either can or can't do something without checking.
+
 ---
 
 ## What's already in this repo

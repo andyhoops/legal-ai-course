@@ -70,3 +70,12 @@ When working with the student in Claude Code sessions:
 - **Assessment:** Reflective rather than exam-based — the journal and portfolio are the evidence of learning
 
 See `session-guide.md` for detailed session structure and tips.
+
+## AI Capability Landscape — Note for the Coach
+
+AI capabilities are evolving rapidly and are not uniform across tools or versions. When running sessions, be aware:
+
+- **Claude Code may or may not have web search** depending on the version and plan. Check before each cohort starts, and flag it to the student.
+- **Even with web access, AI can hallucinate.** The Week 8 critical evaluation session addresses this directly — the lesson is about verification habits, not a fixed list of AI limitations.
+- **If capabilities have changed since this course was written**, treat that as a teaching moment, not a problem. The student discovering that Claude can now do something it "couldn't before" is excellent material for a journal entry about the pace of AI development.
+- **BAILII (bailii.org)** remains the recommended free, authoritative source for verifying UK case citations regardless of Claude's web access status.
