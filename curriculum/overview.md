@@ -75,6 +75,14 @@ You create and polish your GitHub portfolio — a public-facing GitHub Pages sit
 
 ---
 
+## Stretch appendix
+
+After completing the course (or during Month 3 if you're ahead), there is one optional extension module:
+
+**[Appendix: Building Claude Code Skills](appendix-skills.md)** — Formalise your prompt library as callable slash commands. Build three legal research skills (`/analyse-case`, `/argue-sides`, `/spot-issues`) and commit them to your portfolio repo.
+
+---
+
 ## What your portfolio will contain
 
 By the end, your GitHub repo should include:
@@ -83,7 +91,7 @@ By the end, your GitHub repo should include:
 2. **16 weekly journal entries** — honest reflections on each session
 3. **A prompt library** (at least 10 prompts) — reusable prompts for legal analysis tasks you actually ran
 4. **3–5 case study analyses** — structured write-ups developed with AI
-5. **At least one custom tool or template** — a CLAUDE.md, a reusable prompt structure, or a workflow
+5. **At least one custom tool or template** — a CLAUDE.md, a reusable prompt structure, a workflow, or (if you did the stretch module) a set of Claude Code Skills
 6. **A capstone piece** — a polished legal analysis on a topic of your choice
 7. **A GitHub Pages site** — a readable, public-facing site that tells your story
 
